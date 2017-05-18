@@ -208,4 +208,5 @@ void DrawLine(uint16 x1, uint16 y1, uint16 x2, uint16 y2, uint8 color);
  *//*********************************************************************/
 void DrawString(uint16 xPos, uint16 yPos, uint16 len, uint16 font, uint8 color, char* str);
 
+
 #endif /*TEMPLATE_H_*/
